@@ -1,0 +1,5 @@
+streamlit
+pandas
+google-auth
+git+https://github.com/google/generative-ai-python.git
+streamlit_lightweight_charts
